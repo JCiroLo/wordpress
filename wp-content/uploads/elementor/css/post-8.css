@@ -1,0 +1,17 @@
+.elementor-kit-8{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-848f8ea:#5CC9C1;--e-global-color-47c2c24:#898F8F;--e-global-color-84a92a5:#0DB7C4;--e-global-color-138ef31:#164D61;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start custom CSS */.elementor-nav-menu--dropdown ul {
+	display: flex;
+	flex-direction: column;
+	padding: 10px 25px;
+	background-color: #000000dd;
+}
+.elementor-nav-menu--dropdown ul li {
+    width: 100%;
+	flex: 0 0 100%;
+	
+}
+
+.elementor-nav-menu--dropdown ul li a{
+    
+    display: flex;
+    justify-content: center;
+}/* End custom CSS */
